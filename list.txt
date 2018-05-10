@@ -1,0 +1,37 @@
+    https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts   
+    https://mirror1.malwaredomains.com/files/justdomains   
+    http://sysctl.org/cameleon/hosts   
+    https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
+    https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt   
+    https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt 
+    https://hosts-file.net/ad_servers.txt  
+    https://smokingwheels.github.io/Pi-hole/allhosts   
+    https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/adguard_host.txt  
+    https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/easylist_host.txt 
+    https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hostfile.txt  
+    https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/domainlist.txt  
+    https://v.firebog.net/hosts/Airelle-hrsk.txt   
+    https://v.firebog.net/hosts/Airelle-trc.txt
+    https://adaway.org/hosts.txt   
+    https://hosts-file.net/grm.txt 
+    https://gist.githubusercontent.com/anudeepND/adac7982307fec6ee23605e281a57f1a/raw/5b8582b906a9497624c3f3187a49ebc23a9cf2fb/Test.txt
+    https://raw.githubusercontent.com/HenningVanRaumle/pihole-ytadblock/master/ytadblock.txt
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts	
+	https://mirror1.malwaredomains.com/files/justdomains	
+	http://sysctl.org/cameleon/hosts	
+	https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist	
+	https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt	
+	https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt	
+	https://hosts-file.net/ad_servers.txt	
+	https://smokingwheels.github.io/Pi-hole/allhosts	
+	https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/adguard_host.txt	
+	https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/easylist_host.txt	
+	https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hostfile.txt	
+	https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/domainlist.txt	
+	https://v.firebog.net/hosts/Airelle-hrsk.txt	
+	https://v.firebog.net/hosts/Airelle-trc.txt	
+	https://adaway.org/hosts.txt	
+	https://hosts-file.net/grm.txt	
+	https://gist.githubusercontent.com/anudeepND/adac7982307fec6ee23605e281a57f1a/raw/5b8582b906a9497624c3f3187a49ebc23a9cf2fb/Test.txt	
+	https://raw.githubusercontent.com/HenningVanRaumle/pihole-ytadblock/master/ytadblock.txt
+
